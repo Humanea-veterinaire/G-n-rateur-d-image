@@ -1,0 +1,5 @@
+{
+  "name": "Générateur de Photo d'Équipe Humanea",
+  "description": "Téléchargez une photo de vous, ajoutez votre nom et votre titre, et générez une photo d'équipe professionnelle dans le style Humanea. L'IA mettra à jour votre arrière-plan et vos vêtements, et vous pourrez appliquer d'autres modifications avec des invites textuelles.",
+  "requestFramePermissions": []
+}
